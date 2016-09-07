@@ -1,0 +1,1 @@
+web: vendor/bin/heroru-php-apache2 web/
